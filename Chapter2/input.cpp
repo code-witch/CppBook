@@ -17,7 +17,7 @@ int main() {
     cout << "Enter your name: ";
     cin >> name;
 
-    cout << name << "has entered the number: " << number << endl;
+    cout << name << " has entered the number: " << number << endl;
 
     return 0;
 }
